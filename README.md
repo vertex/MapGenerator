@@ -4,7 +4,7 @@ MapGenerator
 This is the beginnings of a level/map generator we're creating for a browser game.
 
 Test usage so far while specifying dimensions:
-	# node test.js 0 10 0 10
+	```# node test.js 0 10 0 10
 	-----------
 	-------0---
 	-----------
@@ -15,10 +15,10 @@ Test usage so far while specifying dimensions:
 	-------0---
 	-----------
 	-----------
-	-----------
+	-----------```
 
 With default test dimensions:
-	# node test.js
+	```# node test.js
 	------------------------------------X-X--
 	--------------0---X-----------X----0-----
 	------------X---0------------------0----0
@@ -39,4 +39,4 @@ With default test dimensions:
 	-0-0---------0-------X-------------------
 	----------X-------------0----------------
 	-------------X--------------0------00----
-	-----------0----0---------00-------------
+	-----------0----0---------00-------------```
